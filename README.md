@@ -1,7 +1,7 @@
 
-<h1 style="text-align: center"><a href="github.com/eriick-monteiro">MUDEI MEU GITHUB</a></h1>
-<h1 style="text-align: center"><a href="github.com/eriick-monteiro">PARA ACESSAR O NOVO</a></h1>
-<h1 style="text-align: center"><a href="github.com/eriick-monteiro">CLIQUE AQUI</a></h1>
+<h1 style="text-align: center"><a href="https://github.com/eriick-monteiro">MUDEI MEU GITHUB</a></h1>
+<h1 style="text-align: center"><a href="https://github.com/eriick-monteiro">PARA ACESSAR O NOVO</a></h1>
+<h1 style="text-align: center"><a href="https://github.com/eriick-monteiro">CLIQUE AQUI</a></h1>
 
 <div align="center">
     <a href="https://github.com/BiraBalaZ">
